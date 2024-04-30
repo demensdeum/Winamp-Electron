@@ -1,0 +1,1 @@
+nativefier --name radio-maximum --platform osx --arch x64 --width 1024 --height 768 --tray --disable-dev-tools --single-instance "https://maximum.ru" --verbose
