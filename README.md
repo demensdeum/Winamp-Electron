@@ -6,3 +6,6 @@ Winamp player website for Windows, Linux, macOS
 Not related to Winamp company in any way 
 
 Using https://github.com/nativefier/nativefier
+
+Releases: 
+https://github.com/demensdeum/Winamp-Electron/releases
