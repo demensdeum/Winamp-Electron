@@ -130,3 +130,4 @@ dist
 .pnp.*
 /winamp-player-linux-x64/
 /winamp-player-win32-x64/
+/winamp-player-darwin-x64/
