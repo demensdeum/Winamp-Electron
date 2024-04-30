@@ -128,3 +128,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/winamp-player-linux-x64/
+/winamp-player-win32-x64/
